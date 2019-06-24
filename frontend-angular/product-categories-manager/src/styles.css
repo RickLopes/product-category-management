@@ -1,0 +1,44 @@
+html,body {
+	background-color: #222;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+h1,h3,.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+input.form-control{
+    color:white;
+    background-color: #495057;
+    border: #495057;
+}
+
+button.add{
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.btn-outline-primary{
+    color: #54A6DD;
+    border-color: #54A6DD
+}
+
+a, a:active, a:visited {
+    color: #54A6DD;
+}
+
+a:hover {
+    color: #598392
+}
+
+.form-control::placeholder{
+    color: white
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}

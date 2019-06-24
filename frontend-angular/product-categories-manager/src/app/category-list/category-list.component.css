@@ -1,0 +1,36 @@
+.title{
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+
+h3.cat-list{
+    margin-left: 4rem
+}
+
+th {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.td-text {
+    padding-top: 1.25rem;
+}
+
+button.add {
+    margin-left: 7.8rem;
+    font-size: 1.2rem;
+}
+
+button.edit {
+    margin: 6px;
+    margin-right: 1rem;
+}
+
+.table {
+    text-align: center;
+    color: white;
+}
+
+.table-center{
+    margin-left: 22%;
+    margin-right: 22%;
+}
