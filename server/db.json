@@ -1,0 +1,19 @@
+{
+  "product_category": [
+    {
+      "id": 1,
+      "category": "Bar",
+      "description": "Prod1"
+    },
+    {
+      "category": "Wood",
+      "description": "Black Wood",
+      "id": 4
+    },
+    {
+      "category": "Wood",
+      "description": "Brown Wood",
+      "id": 5
+    }
+  ]
+}
